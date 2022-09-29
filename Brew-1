@@ -1,0 +1,32 @@
+recipes:
+#  butterbeer is from the wizarding world, just a normal butterscotch(sometimes alcohol) and works like an energy drink due to presence of excess glucose, drink to enjoy
+   2:
+      name: "&&6Inferior Butterbeer/&6Butterbeer/&6Fine Butterbeer"
+      ingredients: 
+      - COCOA_BEANS/3
+      - SUGAR_CANE/5
+      - GLOW_BERRIES/2
+      - OXEYE_DAISY/1
+      cookingtime: 8
+      distillruns: 1
+      wood: 0
+      age: 1
+      color: #ffe066
+      difficulty: 3
+      alcohol: 5
+      effects: 
+      - CONFUSION/2-1/4-2
+      - SPEED/1-2/40-135
+      - REGENERATION/1/25-60
+      - STRENGTH/1-2/30-30
+      lore: 
+      - + "&fFlawed Butterbeer! Ye can do better"
+      - ++ "&fAlmost there scallywag! Enjoy the Butterbeer"
+      - +++ "&fFine Butterbeer! You have done it!!"
+      - ""
+      - "&8⚑&o PirateCraft Brewing"
+      - ""
+      - "&f&lHOW TO OBTAIN"
+      - "&a▌ Brewed using &f/brewing"
+      - ""
+      - "&f&lBREW QUALITY"

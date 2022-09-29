@@ -18,7 +18,7 @@ recipes:
       - CONFUSION/2-1/4-2
       - SPEED/1-2/40-135
       - REGENERATION/1/25-60
-      - STRENGTH/1-2/30-30
+      - FAST_DIGGING/1-2/30-120
       lore: 
       - + "&fFlawed Butterbeer! Ye can do better"
       - ++ "&fAlmost there scallywag! Enjoy the Butterbeer"
